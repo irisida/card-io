@@ -1,0 +1,52 @@
+{
+  "logs": [
+    {
+      "id": 1,
+      "message": "Dummy task number one",
+      "attention": false,
+      "date": "03-02-2021",
+      "tech": "Swiss Tony"
+    },
+    {
+      "id": 2,
+      "message": "Fix Radio tower",
+      "attention": true,
+      "date": "03-02-2021",
+      "tech": "Big Tommy"
+    },
+    {
+      "id": 3,
+      "message": "Stop, collaborate and listen",
+      "attention": true,
+      "date": "03-02-2021",
+      "tech": "Johnny Bravo"
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstname": "Swiss",
+      "lastname": "Tony"
+    },
+    {
+      "id": 2,
+      "firstname": "Big",
+      "lastname": "Tommy"
+    },
+    {
+      "id": 3,
+      "firstname": "Johnny",
+      "lastname": "Bravo"
+    },
+    {
+      "id": 4,
+      "firstname": "Danger",
+      "lastname": "Mouse"
+    },
+    {
+      "firstname": "Antony",
+      "lastname": "Stark",
+      "id": 5
+    }
+  ]
+}
