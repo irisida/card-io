@@ -1,25 +1,25 @@
 {
   "logs": [
     {
-      "id": 1,
-      "message": "Dummy task number one",
+      "message": "Do the fandango",
       "attention": false,
-      "date": "03-02-2021",
-      "tech": "Swiss Tony"
+      "tech": "Tony Stark",
+      "date": "2021-02-24T19:57:45.649Z",
+      "id": 1
     },
     {
-      "id": 2,
-      "message": "Fix Radio tower",
+      "message": "Thunderbolt and lightening",
       "attention": true,
-      "date": "03-02-2021",
-      "tech": "Big Tommy"
+      "tech": "Swiss Tony",
+      "date": "2021-02-24T19:58:25.534Z",
+      "id": 2
     },
     {
-      "id": 3,
-      "message": "Stop, collaborate and listen",
+      "message": "Ch-ch-changes, turn and face the crowd",
       "attention": true,
-      "date": "03-02-2021",
-      "tech": "Johnny Bravo"
+      "tech": "Tony Stark",
+      "date": "2021-02-24T20:05:52.037Z",
+      "id": 3
     }
   ],
   "techs": [
