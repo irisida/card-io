@@ -1,25 +1,25 @@
 {
   "logs": [
     {
+      "id": 1,
       "message": "Do the fandango",
-      "attention": false,
-      "tech": "Tony Stark",
-      "date": "2021-02-24T19:57:45.649Z",
-      "id": 1
-    },
-    {
-      "message": "Thunderbolt and lightening",
       "attention": true,
       "tech": "Swiss Tony",
-      "date": "2021-02-24T19:58:25.534Z",
-      "id": 2
+      "date": "2021-02-24T21:03:22.529Z"
     },
     {
+      "id": 3,
       "message": "Ch-ch-changes, turn and face the crowd",
       "attention": true,
-      "tech": "Tony Stark",
-      "date": "2021-02-24T20:05:52.037Z",
-      "id": 3
+      "tech": "Mad Barry",
+      "date": "2021-02-24T21:03:01.663Z"
+    },
+    {
+      "message": "Event Horizon",
+      "attention": true,
+      "tech": "Mad Barry",
+      "date": "2021-02-24T21:15:00.448Z",
+      "id": 4
     }
   ],
   "techs": [

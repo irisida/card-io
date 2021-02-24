@@ -4,6 +4,7 @@ export const DELETE_LOG = 'DELETE_LOG';
 export const UPDATE_LOG = 'UPDATE_LOG';
 
 export const GET_CURRENT = 'GET_CURRENT';
+export const SET_CURRENT = 'SET_CURRENT';
 export const CLEAR_CURRENT = 'CLEAR_CURRENT';
 export const LOGS_ERROR = 'LOGS_ERROR';
 
